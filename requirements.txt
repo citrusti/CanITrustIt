@@ -4,7 +4,7 @@ bs4==0.0.2
 Flask==3.0.3
 Flask[async]==3.0.3
 gunicorn==23.0.0
-keras==3.5.0
+keras==3.9.0
 nh3==0.2.18
 numpy==1.26.4
 regex==2024.9.11
